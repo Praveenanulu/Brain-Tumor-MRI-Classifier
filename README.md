@@ -233,9 +233,5 @@ Evaluation follows the official **BraTS Benchmark Protocol**:
    python -m backend.segmentation.evaluate --checkpoint models/NeuroScan_Seg3D_UNet.pth --test_dir backend/segmentation/data
    ```
 
----
-
-## ⚠️ Research Disclaimer
-
-> **IMPORTANT CLINICAL NOTICE:**
-> NEUROSCAN AI is developed exclusively for investigational research, academic demonstration, and educational purposes. It has not been cleared or approved by the FDA, EMA, or any national medical device regulatory body. It is **NOT** intended for clinical diagnosis, patient management, or surgical navigation. Any treatment decisions must be made by licensed healthcare professionals using certified medical devices and verified diagnostic imaging.
+// DEVELOPER
+**Saipraveena Nulu**
